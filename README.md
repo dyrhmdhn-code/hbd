@@ -13,7 +13,7 @@
     </div>
     <div class="card hidden" id="card">
       <h1>🎉 Selamat Ulang Tahun 🎉</h1>
-      <h2>Zulfaa Rosada yang ke-19 Tahun</h2>
+      <h2>DEDE DEWIII yang ke-19 Tahun</h2>
       <p>Kamu sudah hebat sejauh ini 💖 Semangatt yahh de!</p>
     </div>
     <div class="balloons" id="balloons">
